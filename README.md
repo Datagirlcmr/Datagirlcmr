@@ -2,9 +2,6 @@
 
 <img src="https://pbs.twimg.com/profile_banners/489779486/1607507789/1500x500" alt="logo" />
 
-<!--
-**Datagirlcmr/Datagirlcmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Things you should know about me
 
 **I am an Award-winning full-stack web developer (& M.B.A.) with an accountant’s eye, an administrator’s voice, and a developer’s mind. A get-it-done and get-it-done-well kind of woman**
