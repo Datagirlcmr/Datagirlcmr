@@ -14,5 +14,5 @@
 - 💬 Ask me about why I abandoned Finance (MBA) for tech
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/selmandi/) and [Twitter](https://twitter.com/SelmaNdi)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: It has been 18 months since I wrote my first "Hello World" line of code
+- ⚡ Fun fact: It has been 33 months since I wrote my first "Hello World" line of code
 - 📫 Browse through my [Portfolio](https://selmandi.com/) and my [Resume](https://docs.google.com/document/d/1T-oj7EtC7HGLT8s2nXODzL9TPZ2CxEhrtr85xL-uoDU/edit)
