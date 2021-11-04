@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Datagirlcmr/Datagirlcmr/blob/main/Datagirltechlogo.png" width="25" alt="logo" />
+<img src="https://github.com/Datagirlcmr/Datagirlcmr/blob/main/Datagirltechlogo.png" width="300" alt="logo" />
 
 <h3 align="center"> Hi there, everyone calls me DataGirl 👋 </h3>
 
