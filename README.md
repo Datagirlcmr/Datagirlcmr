@@ -7,9 +7,9 @@
 
 <h3 align="center"> I am an Award-winning full-stack web developer (& M.B.A.) with an accountant’s eye, an administrator’s voice, and a developer’s mind. A get-it-done and get-it-done-well kind of woman</h3>
 
-- 🔭 I just finished a Mentorship Program at Twitter HQ in San Francisco , Techwomen '22
+- 🔭 I finished a Mentorship Program at Twitter HQ in San Francisco , Techwomen '22
 - 🌱 I’m currently teaching the basics of coding to 25 girls, yeah I am a STEM advocate ...
-- 👯 I’m looking to collaborate on projects in Ruby, Ruby on Rails, JavaScript and Reactjs
+- 👯 I’m looking to collaborate on projects in the JavaScript stack including Typescript, NextJs, and Reactjs
 - 🤔 I was the Youth of Excellence in Cameroon 2018, and I recently just won best web developer at the African Women in Tech Startups
 - 💬 Ask me about why I abandoned Finance (MBA) for tech
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/selmandi/) and [Twitter](https://twitter.com/SelmaNdi)
