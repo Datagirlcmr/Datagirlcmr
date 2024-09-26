@@ -15,4 +15,4 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/selmandi/) and [Twitter](https://twitter.com/SelmaNdi)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was Featured on [Forbes](https://www.forbes.com/sites/meghanmccormick/2021/07/26/meet-the-25-african-founders-entering-the-future-is-female-pr-mentorship-program/?sh=10339438260a) 
-- 📫 Browse through my [Portfolio](https://selmandi.com/) and my [Resume](https://docs.google.com/document/d/1T-oj7EtC7HGLT8s2nXODzL9TPZ2CxEhrtr85xL-uoDU/edit)
+- 📫 Browse through my [Portfolio](https://selmandi.com/) and my [Resume](https://drive.google.com/file/d/1yRg5-XvTINoqe8DD4W6L0edrel6QIrZ4/view?usp=drive_link)
